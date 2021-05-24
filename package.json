@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-crash-2019",
+  "version": "1.0.0",
+  "description": "Node Crash Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhzaccarelli/nodejs-crash-2019.git"
+  },
+  "author": "Laerte H Zaccarelli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lhzaccarelli/nodejs-crash-2019/issues"
+  },
+  "homepage": "https://github.com/lhzaccarelli/nodejs-crash-2019#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
